@@ -122,12 +122,13 @@ A button is provided to **reset all filters instantly**.
 ---
 ## Dashboard Preview
 
-![Petroleum Product Price Analysis Dashboard](images/dashboard.png)
+![Petroleum Product Price Analysis Dashboard](https://github.com/LingeswarReddy/Power-BI-project-Petroleum-products-price-Estimation-/blob/main/Screenshot%202026-03-13%20221208.png)
 
 *Figure: Power BI dashboard showing price analysis of Superior Kerosene Oil (Non-PDS) across major Indian cities.*
 
 ---
-
+##Demo of the Project
+![Click here](https://github.com/LingeswarReddy/Power-BI-project-Petroleum-products-price-Estimation-/blob/main/powerbiproject.pbit)
 ## Built With
 
 * **Power BI** – Data visualization and dashboard development
