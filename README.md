@@ -116,10 +116,12 @@ A button is provided to **reset all filters instantly**.
 ## Tools & Technologies Used
 
 * **Power BI** – Dashboard creation and data visualization
+* **Microsoft Power BI Desktop** – Data modeling and report creation
 * **Dataset** – Petroleum product price dataset
 * **Data Transformation** – Data aggregation and scaling within Power BI
 
 ---
+
 ## Dashboard Preview
 
 ![Petroleum Product Price Analysis Dashboard](https://github.com/LingeswarReddy/Power-BI-project-Petroleum-products-price-Estimation-/blob/main/Screenshot%202026-03-13%20221208.png)
@@ -127,16 +129,12 @@ A button is provided to **reset all filters instantly**.
 *Figure: Power BI dashboard showing price analysis of Superior Kerosene Oil (Non-PDS) across major Indian cities.*
 
 ---
-##Demo of the Project
-![Click here](https://github.com/LingeswarReddy/Power-BI-project-Petroleum-products-price-Estimation-/blob/main/powerbiproject.pbit)
-## Built With
 
-* **Power BI** – Data visualization and dashboard development
-* **Microsoft Power BI Desktop** – Data modeling and report creation
-* **Dataset:** Petroleum Product Price (Superior Kerosene Oil – Non-PDS)
+## Demo of the Project
+
+[Click here to download/view the Power BI template](https://github.com/LingeswarReddy/Power-BI-project-Petroleum-products-price-Estimation-/blob/main/powerbiproject.pbit)
 
 ---
-```
 
 ## Insights from the Dashboard
 
@@ -154,9 +152,16 @@ This dashboard provides a **clear and interactive visualization of kerosene oil 
 
 ## Author
 
-Developed as part of a **data visualization and analytics project**.
-License
+**Lingeswar**
+
+---
+
+## License
 
 MIT License
 
 Copyright (c) 2026 Lingeswar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+The software is provided **"as is"**, without warranty of any kind.
